@@ -81,4 +81,4 @@ c. Medium and large outlets outperform smaller ones, implying scale advantages.
 d. Older outlets may have established customer bases but might lag in innovation compared to newer ones.
 e. Specific geographic regions show higher sales concentration, guiding location-based promotional strategies.
 
-Screenshots:
+Screenshot of the Power BI dashboard: https://github.com/tanishatewari/BlinkIT-analysis/blob/main/blinkit%20dashboard.png
