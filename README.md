@@ -4,11 +4,11 @@ The goal is to uncover insights and KPIs that can help improve product strategy,
 
 Tech Stack:
 The dashboard was build using the following tools and technology:
-a. SQL (MySQL) – for querying, data cleaning, and KPI calculation
-b. Power BI – for creating interactive dashboards and visual analysis
-c. Power query - data transformation and cleaning layer for reshasping and preparing data
-d. DAX(data analysis expressions) - used for calculated measures
-e. Microsoft Excel / CSV – for initial data handling
+a. SQL (MySQL) – for querying, data cleaning, and KPI calculation,
+b. Power BI – for creating interactive dashboards and visual analysis,
+c. Power query - data transformation and cleaning layer for reshaping and preparing data,
+d. DAX(data analysis expressions) - used for calculated measures,
+e. Microsoft Excel / CSV – for initial data handling.
 
 Data Source:
 Dataset: Blinkit Sales Data – Kaggle
@@ -21,14 +21,14 @@ Number of Items – Total items sold across outlets
 Average Rating – Average customer rating for products
 
 2. Business Analysis Using SQL:
-Business Requirement	Objective	Chart Type (in Power BI)
-a.	Total Sales by Fat Content	Analyze sales distribution by fat content type	Donut Chart
-b.	Total Sales by Item Type	Identify best-performing product categories	Bar Chart
-c.	Fat Content by Outlet for Total Sales	Compare sales across outlets segmented by fat content	Stacked Column Chart
-d.	Total Sales by Outlet Establishment Year	Examine sales trends by outlet age	Line Chart
-e.	Sales by Outlet Size	Understand relationship between outlet size and sales	Pie Chart
-f.	Sales by Outlet Location Type	Visualize sales distribution geographically	Funnel Chart
-g.	All Metrics by Outlet Type	Display all key KPIs (Sales, Rating, Items, etc.) by outlet	Matrix / KPI Cards
+Business Requirement,Objective,Chart Type(in Power BI)
+a.	Total Sales by Fat Content,	Analyze sales distribution by fat content, Donut Chart
+b.	Total Sales by Item Type,	Identify best-performing product categories,	Bar Chart
+c.	Fat Content by Outlet for Total Sales, Compare sales across outlets segmented by fat content, Stacked Column Chart
+d.	Total Sales by Outlet Establishment Year, Examine sales trends by outlet age, Line Chart
+e.	Sales by Outlet Size, Understand relationship between outlet size and sales, Pie Chart
+f.	Sales by Outlet Location Type, Visualize sales distribution geographically, Funnel Chart
+g.	All Metrics by Outlet Type, Display all key KPIs (Sales, Rating, Items, etc.) by outlet	Matrix / KPI Cards
 
 Features and Highlights:
 1. Business Problem:
