@@ -1,7 +1,6 @@
 # BlinkIT-analysis
-BlinkIT Analysis
 This project analyzes Blinkit’s sales performance, customer satisfaction, and outlet efficiency using MS Excel, SQL and Power BI.
-Objective: The goal is to uncover insights and KPIs that can help improve product strategy, outlet performance, and overall profitability.
+The goal is to uncover insights and KPIs that can help improve product strategy, outlet performance, and overall profitability.
 
 Tech Stack:
 The dashboard was build using the following tools and technology:
